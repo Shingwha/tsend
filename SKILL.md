@@ -1,6 +1,6 @@
 ---
 name: tsend
-description: Send files via Telegram. Example: tsend send document.pdf
+description: Send files via Telegram. Example:`tsend send document.pdf`
 ---
 
 # Telegram Sender (tsend)
